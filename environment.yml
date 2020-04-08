@@ -2,5 +2,5 @@ channels:
   - conda-forge
 dependencies:
   - numpy
-  - jupyter-server-proxy=1.2.0
+  - jupyter-server-proxy
   - code-server
